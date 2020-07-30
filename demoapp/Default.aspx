@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            This is Mohannad a a secondary application
+            This is Mohannad application
         </div>
     </form>
 </body>
